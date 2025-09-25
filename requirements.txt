@@ -1,0 +1,11 @@
+beautifulsoup4
+markdownify
+pandas
+pdfplumber
+pymupdf
+reportlab
+tabulate
+fastapi
+uvicorn
+python-multipart
+httpx
